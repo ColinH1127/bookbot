@@ -1,4 +1,6 @@
 # bookbot
 
 bookbot project repo
-bookbot is my first project on boot.dev
+
+bookbot retrieves wordcount and character counts of text files
+
